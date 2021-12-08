@@ -14,3 +14,6 @@ Second line in this file
 __
 7. все файлы .terraformrc;
 8. все файлы terraform с расширением .rc
+
+# Задание №4 - проверка работы PyCharm c Git
+1. добавление новой строчки и commit
